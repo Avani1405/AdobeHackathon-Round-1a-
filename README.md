@@ -17,9 +17,9 @@ Open your terminal (PowerShell, Command Prompt, etc.),
 navigate to the Challenge_1a project directory,  
 and run:
 
-bash
+```bash
 docker build --platform linux/amd64 -t trial7 .
-
+```
 
 ---
 ### 🧪 Step 2: Run the Analysis
@@ -32,5 +32,6 @@ The -v flag maps your local folder to /app/data inside the container.
 
 To run analysis on a sample collection like Collection_3, run:
 
-bash
+```bash
 docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output trial6 python main_enhanced.py
+```
