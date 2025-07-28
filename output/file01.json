@@ -1,0 +1,32 @@
+{
+    "title": "",
+    "headings": [
+        {
+            "text": "Application form for grant of LTC advance",
+            "level": "H1",
+            "page": 1,
+            "font_size": 11.670000076293945,
+            "is_bold": true
+        },
+        {
+            "text": "S.No",
+            "level": "H4",
+            "page": 1,
+            "font_size": 9.744400024414062,
+            "is_bold": true
+        },
+        {
+            "text": "Date",
+            "level": "H4",
+            "page": 1,
+            "font_size": 9.744400024414062,
+            "is_bold": true
+        }
+    ],
+    "metadata": {
+        "processing_time_seconds": 0.011053085327148438,
+        "detected_language": "en",
+        "total_pages": 1,
+        "total_headings": 3
+    }
+}

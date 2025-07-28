@@ -1,0 +1,46 @@
+{
+    "title": "Parsippany -Troy Hills STEM Pathways",
+    "headings": [
+        {
+            "text": "Parsippany -Troy Hills STEM Pathways",
+            "level": "H1",
+            "page": 1,
+            "font_size": 28.00721549987793,
+            "is_bold": true
+        },
+        {
+            "text": "Mission Statement:",
+            "level": "H4",
+            "page": 1,
+            "font_size": 14.005849838256836,
+            "is_bold": false
+        },
+        {
+            "text": "Goals:",
+            "level": "H4",
+            "page": 1,
+            "font_size": 14.011449813842773,
+            "is_bold": false
+        },
+        {
+            "text": "PATHWAY OPTIONS",
+            "level": "H2",
+            "page": 1,
+            "font_size": 15.308159828186035,
+            "is_bold": false
+        },
+        {
+            "text": "REGULAR PATHWAY",
+            "level": "H2",
+            "page": 1,
+            "font_size": 15.310199737548828,
+            "is_bold": true
+        }
+    ],
+    "metadata": {
+        "processing_time_seconds": 0.03749871253967285,
+        "detected_language": "en",
+        "total_pages": 1,
+        "total_headings": 5
+    }
+}

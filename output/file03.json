@@ -1,0 +1,277 @@
+{
+    "title": "RFP: R",
+    "headings": [
+        {
+            "text": "Ontario\u2019s Libraries",
+            "level": "H4",
+            "page": 1,
+            "font_size": 15.960000038146973,
+            "is_bold": false
+        },
+        {
+            "text": "RFP: R",
+            "level": "H1",
+            "page": 1,
+            "font_size": 32.040000915527344,
+            "is_bold": false
+        },
+        {
+            "text": "To Present a Proposal for Developing",
+            "level": "H2",
+            "page": 1,
+            "font_size": 24.0,
+            "is_bold": false
+        },
+        {
+            "text": "March 21, 2003",
+            "level": "H3",
+            "page": 1,
+            "font_size": 20.040000915527344,
+            "is_bold": false
+        },
+        {
+            "text": "Ontario\u2019s Digital Library",
+            "level": "H3",
+            "page": 2,
+            "font_size": 20.040000915527344,
+            "is_bold": false
+        },
+        {
+            "text": "A Critical Component for Implementing Ontario\u2019s Road Map to",
+            "level": "H4",
+            "page": 2,
+            "font_size": 15.960000038146973,
+            "is_bold": false
+        },
+        {
+            "text": "Equitable access for all Ontarians:",
+            "level": "H4",
+            "page": 4,
+            "font_size": 11.039999961853027,
+            "is_bold": true
+        },
+        {
+            "text": "Shared decision-making and accountability:",
+            "level": "H4",
+            "page": 4,
+            "font_size": 11.039999961853027,
+            "is_bold": true
+        },
+        {
+            "text": "Shared governance structure:",
+            "level": "H4",
+            "page": 4,
+            "font_size": 11.039999961853027,
+            "is_bold": true
+        },
+        {
+            "text": "Shared funding:",
+            "level": "H4",
+            "page": 4,
+            "font_size": 11.039999961853027,
+            "is_bold": true
+        },
+        {
+            "text": "Local points of entry:",
+            "level": "H4",
+            "page": 5,
+            "font_size": 11.039999961853027,
+            "is_bold": true
+        },
+        {
+            "text": "Access:",
+            "level": "H4",
+            "page": 5,
+            "font_size": 11.039999961853027,
+            "is_bold": true
+        },
+        {
+            "text": "Guidance and Advice:",
+            "level": "H4",
+            "page": 5,
+            "font_size": 11.039999961853027,
+            "is_bold": true
+        },
+        {
+            "text": "Provincial Purchasing & Licensing:",
+            "level": "H4",
+            "page": 5,
+            "font_size": 11.039999961853027,
+            "is_bold": true
+        },
+        {
+            "text": "Technological Support:",
+            "level": "H4",
+            "page": 5,
+            "font_size": 11.039999961853027,
+            "is_bold": true
+        },
+        {
+            "text": "For each Ontario citizen it could mean:",
+            "level": "H4",
+            "page": 5,
+            "font_size": 11.039999961853027,
+            "is_bold": true
+        },
+        {
+            "text": "For each Ontario student it could mean:",
+            "level": "H4",
+            "page": 5,
+            "font_size": 11.039999961853027,
+            "is_bold": true
+        },
+        {
+            "text": "For each Ontario library it could mean:",
+            "level": "H4",
+            "page": 6,
+            "font_size": 11.039999961853027,
+            "is_bold": true
+        },
+        {
+            "text": "For the Ontario government it could mean:",
+            "level": "H4",
+            "page": 6,
+            "font_size": 11.039999961853027,
+            "is_bold": true
+        },
+        {
+            "text": "Phase I:  Business Planning",
+            "level": "H4",
+            "page": 9,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "Timeline:",
+            "level": "H4",
+            "page": 9,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "Result:",
+            "level": "H4",
+            "page": 9,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "Phase II: Implementing and Transitioning",
+            "level": "H4",
+            "page": 9,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "Timeline:",
+            "level": "H4",
+            "page": 9,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "Result:",
+            "level": "H4",
+            "page": 9,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "Phase III: Operating and Growing the ODL",
+            "level": "H4",
+            "page": 9,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "Timeline:",
+            "level": "H4",
+            "page": 9,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "OVERVIEW OF ODL FUNDING MODEL",
+            "level": "H4",
+            "page": 10,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "Funding Source",
+            "level": "H4",
+            "page": 10,
+            "font_size": 12.0,
+            "is_bold": true
+        },
+        {
+            "text": "1. Preamble",
+            "level": "H4",
+            "page": 11,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "2. Terms of Reference",
+            "level": "H4",
+            "page": 11,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "3. Membership",
+            "level": "H4",
+            "page": 11,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "4. Appointment Criteria and Process",
+            "level": "H4",
+            "page": 12,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "5. Term",
+            "level": "H4",
+            "page": 12,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "6. Chair",
+            "level": "H4",
+            "page": 12,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "7. Meetings",
+            "level": "H4",
+            "page": 12,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "8. Lines of Accountability and Communication",
+            "level": "H4",
+            "page": 12,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        },
+        {
+            "text": "9. Financial and Administrative Policies",
+            "level": "H4",
+            "page": 13,
+            "font_size": 9.960000038146973,
+            "is_bold": true
+        }
+    ],
+    "metadata": {
+        "processing_time_seconds": 0.0607151985168457,
+        "detected_language": "en",
+        "total_pages": 14,
+        "total_headings": 38
+    }
+}
