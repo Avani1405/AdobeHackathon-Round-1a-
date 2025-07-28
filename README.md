@@ -30,7 +30,7 @@ The -v flag maps your local folder to /app/data inside the container.
 ---
 #### ▶ Run with Sample Collections
 
-To run analysis on a sample collection like Collection_3, run:
+To run analysis on a sample collection, run:
 
 ```bash
 docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output trial6 python main_enhanced.py
