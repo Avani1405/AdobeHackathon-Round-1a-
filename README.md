@@ -30,6 +30,7 @@ Handles real, messy PDFs.
 
 Works for multiple languages.
 
+
 Fast, explainable rules — no heavy models.
 
 Easy to tweak if you need.
